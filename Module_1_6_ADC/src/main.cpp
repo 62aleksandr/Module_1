@@ -4,7 +4,7 @@
 #define LED_PIN 15
 
 #define VREF 3.1
-#define ADC_RESOLUTION 4095.0
+#define ADC_RESOLUTION 4095
 #define VOLTAGE_THRESHOLD 800
 #define VOLTAGE_GIST 200
 
