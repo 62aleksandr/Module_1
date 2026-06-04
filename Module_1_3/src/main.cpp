@@ -18,9 +18,9 @@ void loop()
 {
   // Blink the LED: 500ms ON, 500ms OFF
   digitalWrite(LED_PIN, HIGH); // turn LED on
-  Serial.println("LED is ON");
+  Serial.println("LED ON");
   delay(500);                 // wait 500 milliseconds
   digitalWrite(LED_PIN, LOW); // turn LED off
-  Serial.println("LED is OFF");
+  Serial.println("LED OFF");
   delay(500); // wait 500 milliseconds
 }
